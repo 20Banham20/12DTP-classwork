@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+}
+h1{
+    color: yellow;
+}
+
+h2{
+    color: yellow;
+}
+
+p{
+    color:white;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive    ;
+}
+.maindiv{
+    background-color: brown;
+    border-radius: 3%;
+    width:700px
+}
+ul{
+    color: white;
+    list-style: none;
+}
+li{
+    padding: 10px;
+    margin: 2px;
+    margin-right: 40px;
+    background-color: burlywood;
+    text-align: center;
+}
