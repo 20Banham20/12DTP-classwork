@@ -1,0 +1,40 @@
+nav{
+    color:white;
+    background-color: rgb(209, 71, 71);
+    text-align: center;
+    font-size:25px;
+    padding: 40px;
+}
+body{
+    background-color: rgb(46, 46, 46);
+    margin: auto 0%;
+
+}
+img{
+    width: 200px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.game{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(75, 75, 75);
+    margin: 10px;
+    margin-top: 150px;
+    border-radius: 3%;
+}
+h2{
+    color: yellow;
+}
+
+.game:hover { 
+    transform: scale(1.05); 
+} 
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
